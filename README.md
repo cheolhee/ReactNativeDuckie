@@ -1,4 +1,5 @@
-# ReactNativeDuckie : iOS App Development with React Native and ClojureScript
+
+# React Native Duckie : iOS App Development with React Native and ClojureScript
 
 Lisp을 좋아하는 사람들의 그룹(한국 리스퍼),  제 4회 리습 세미나 발표 자료입니다.
 ###  발표자
@@ -29,3 +30,4 @@ Lisp을 좋아하는 사람들의 그룹(한국 리스퍼),  제 4회 리습 세
 ### 기타
 
 - HW관련 코드는 삭제된 소스를 공개함을 양해 바랍니다.
+- 문의는 Google Groups https://groups.google.com/forum/#!forum/lisp-korea 에 하시면 되겠습니다.
